@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+/* header styling */
 
 header {
     padding: 20px;
@@ -37,6 +38,7 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* Header Styling end */
 
 a {
     color: #ffffff;
@@ -46,7 +48,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Hero image style */
 .hero {
     height: 800px;
     width: 100%;
@@ -55,6 +57,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero Image style end */
 
 .float-left {
     float: left;
@@ -184,6 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Footer styling */
 
 .footer {
     padding: 30px;
@@ -195,3 +199,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer Styling end */
