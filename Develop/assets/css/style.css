@@ -57,6 +57,7 @@ a {
 }
 /* Hero Image style end */
 
+/* Content boxes on left hand side of screen styling begin */
 p {
     font-size: 16px;
 }
@@ -114,6 +115,10 @@ p {
     font-size: 36px;
 }
 
+/* Content boxes styling end */
+
+/* Benefits box on right hand side of screen styling start */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -138,6 +143,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Benefits box styling end */
 
 /* Footer styling */
 
